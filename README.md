@@ -1,16 +1,16 @@
 # Hey there, I'm Poova ! 🚀
 
-🌱 Merging the realms of Life Sciences Engineering, cutting-edge design, and full-stack code into a tapestry of innovation.
+🌱 Blending full-stack development with a pinch of design magic. Crafting digital experiences that are not only robust and scalable but also enchantingly aesthetic.
 
-## 🎨 The Designer's Code
+## 🎨 Developer's Heart  | Designer's Mind 
 
-From the intricacies of life systems to the pixels of a screen, I dance across spectrums to bring you experiences that are both profound and delightful. 
+In the sea of developers, I'm the one wielding a paintbrush. With each line of code, I ensure that aesthetics and functionality walk hand in hand. 
 
-- **Scientific Mindset 🧪**: Harnessing the analytical depth of Life Sciences Engineering to probe, decipher, and sculpt.
+- **Full-Stack Odyssey 🌌**: Delving deep into the code, from frontend spells to backend incantations, I bring ideas to life with technical precision and flair.
   
-- **Design Intuition 🎨**: With every design, I paint stories; narratives that users not only interact with but also feel deeply connected to.
+- **Design Intuition 🎨**: Not just about vibrant colors or intuitive UIs, but creating experiences. I listen to users, empathize, and then paint their emotions onto screens.
 
-- **Developer's Craft 🛠**: Navigating the digital matrix, I'm on my journey of evolving as a Full-Stack Developer, channeling my design sensibilities into functional art.
+- **Scalable Artistry 🖥**: Each project is a canvas, where I ensure that the brushstrokes of design mesh seamlessly with the architecture of development.
 
 ## 🌌 Exploring New Horizons
 
@@ -22,7 +22,15 @@ They say unicorns are mythical. Here I am, challenging that very notion every da
 
 ## 🌍 Connect Beyond Pixels and Code
 
-Whether you're curious about the cosmos of design, the constructs of development, or the musings of a modern-day unicorn:
+Whether you're curious about the cosmos of design, the constructs of development, or the musings of a modern-day unicorn
+
+## Skills:
+
+- **Frontend**: React, Vue, Angular
+- **Backend**: Node.js, Django, Ruby on Rails
+- **Database**: MongoDB, PostgreSQL, MySQL
+- **Design Tools**:  Figma, Adobe XD, Sketch, Spline , Webflow, Blender
+- **Others**:  Docker, CI/CD, AWS
 
 - [Email](poovasokan@gmail.com)
 
