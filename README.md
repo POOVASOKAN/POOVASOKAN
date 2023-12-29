@@ -37,7 +37,7 @@ Whether you're curious about the cosmos of design, the constructs of development
 Dive in, reach out, and let's craft tales that the digital world will remember.
 
 
-![](https://komarev.com/ghpvc/?username=POOVASOKAN&color=BLUEVIOLET)
+![](https://komarev.com/ghpvc/?username=POOVASOKAN&color=green)
 <!---
 POOVASOKAN/POOVASOKAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
